@@ -1,0 +1,8 @@
+fixtures:
+  symlinks:
+    "logrotate": "#{source_dir}"
+  repositories:
+    "stdlib":
+      repo: "git://github.com/puppetlabs/puppetlabs-stdlib"
+      ref: "2.6.0"
+
